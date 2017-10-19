@@ -1,0 +1,14 @@
+uuid: 4a48ae09-719e-4b32-9931-c30f56fbb841
+name: tpo8
+mail: it-drupal@achieveagency.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
